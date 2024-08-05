@@ -9,7 +9,7 @@ A physical Android device with a minimum OS version of SDK 24 (Android 7.0 - Nou
 ## Building
 Open Android Studio. From the Welcome screen, select Open an existing Android Studio project.
 
-From the Open File or Project window that appears, navigate to and select this repo. Click OK.
+From the Open File or Project window that appears, navigate to and select this repo -> test_mediapipe. Click OK.
 
 If it asks you to do a Gradle Sync, click OK.
 
