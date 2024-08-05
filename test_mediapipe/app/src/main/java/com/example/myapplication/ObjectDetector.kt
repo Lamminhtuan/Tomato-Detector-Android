@@ -34,7 +34,7 @@ class ObjectDetectorHelper(
     private fun setup(){
         val baseOptionsBuilder = BaseOptions.builder()
         baseOptionsBuilder.setDelegate(Delegate.CPU)
-        val modelName = "model (3).tflite"
+        val modelName = "model.tflite"
         baseOptionsBuilder.setModelAssetPath(modelName)
         val optionsBuilder = ObjectDetector.ObjectDetectorOptions.builder()
             .setBaseOptions(baseOptionsBuilder.build())
