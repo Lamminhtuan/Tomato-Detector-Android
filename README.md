@@ -2,7 +2,7 @@
 ## Overview
 A mobile app that detect tomato using SSD MobileNet V2.
 ## Prerequisites
-The Android Studio IDE. This sample has been tested on Android Studio Koala.
+The Android Studio IDE. This sample has been tested on Windows 11 and Android Studio Koala.
 
 A physical Android device with a minimum OS version of SDK 24 (Android 7.0 - Nougat) with developer mode enabled.
 
