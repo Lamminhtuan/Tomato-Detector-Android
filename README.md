@@ -1,6 +1,11 @@
 # Detector-Android
 ## Overview
 A mobile app that detect tomato using SSD MobileNet V2.
+
+
+https://github.com/user-attachments/assets/09660074-e2c7-459a-86d6-1dd0fdccaa02
+
+
 ## Prerequisites
 The Android Studio IDE. This sample has been tested on Windows 11 and Android Studio Koala.
 
